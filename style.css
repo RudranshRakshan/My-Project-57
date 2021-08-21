@@ -1,0 +1,26 @@
+body{
+    text-align: center
+  
+}
+#colour{
+     background: linear-gradient(red 14%, orange 28%, yellow 42%, green 56%, blue 70%, indigo 84%, violet 108%);
+}
+img{
+ border-radius: 45%;
+}
+div{
+    background-color: black;
+    height: 6px;
+    width: 200px;
+   margin:8px auto;
+}
+p{
+    font-size: 25px;
+    color: white;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+  font-size:35px;
+}
